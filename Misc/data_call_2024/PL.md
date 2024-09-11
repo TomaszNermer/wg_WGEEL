@@ -1,5 +1,5 @@
 -----------------------------------------------------------
-# 00 (put the code of the country there) 
+# PL (put the code of the country there) 
 -----------------------------------------------------------
 
 ## Annex 1
@@ -44,6 +44,8 @@
 
 ## Annex 4
 
+4 new values inserted in the database
+2 values updated in the db
 
 
 ## Annex 5
